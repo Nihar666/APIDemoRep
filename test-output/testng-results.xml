@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T16:49:14 IST" name="Default suite" finished-at="2024-03-28T16:49:23 IST" duration-ms="9507">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T16:49:14 IST" name="Default test" finished-at="2024-03-28T16:49:23 IST" duration-ms="9507">
+      <class name="com.basic.apiTest.DynamicJson">
+        <test-method signature="addBoodAPI(java.lang.String,java.lang.String)[pri:0, instance:com.basic.apiTest.DynamicJson@4d5650ae]" started-at="2024-03-28T16:49:14 IST" name="addBoodAPI" data-provider="AddbookData" finished-at="2024-03-28T16:49:23 IST" duration-ms="8996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ndjemk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[836478]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBoodAPI -->
+        <test-method signature="addBoodAPI(java.lang.String,java.lang.String)[pri:0, instance:com.basic.apiTest.DynamicJson@4d5650ae]" started-at="2024-03-28T16:49:23 IST" name="addBoodAPI" data-provider="AddbookData" finished-at="2024-03-28T16:49:23 IST" duration-ms="194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mamxk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[22389]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBoodAPI -->
+        <test-method signature="addBoodAPI(java.lang.String,java.lang.String)[pri:0, instance:com.basic.apiTest.DynamicJson@4d5650ae]" started-at="2024-03-28T16:49:23 IST" name="addBoodAPI" data-provider="AddbookData" finished-at="2024-03-28T16:49:23 IST" duration-ms="137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mjuju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66899]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBoodAPI -->
+      </class> <!-- com.basic.apiTest.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
